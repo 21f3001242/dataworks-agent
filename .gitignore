@@ -1,13 +1,16 @@
-# Python-related ignores
+# Ignore Python cache and environment files
 __pycache__/
 *.pyc
 *.pyo
-.venv/
+*.pyd
+*.env
 .env
 
-# Log files
+# Ignore logs
 *.log
 
-# OS-specific files
+# Ignore system files
 .DS_Store
-Thumbs.db
+
+# Ignore Docker-related files
+*.tar
