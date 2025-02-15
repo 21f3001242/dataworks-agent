@@ -1,0 +1,2 @@
+
+# Friend ago reality structure.
